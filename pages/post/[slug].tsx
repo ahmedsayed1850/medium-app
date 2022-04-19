@@ -72,7 +72,7 @@ const Post = ({ post }: Props) => {
           <PortableText
             dataset={process.env.NEXT_PUBLIC_SANITY_DATASET!}
             projectId={process.env.NEXT_PUBLIC_SANITY_PROJECT_ID!}
-            content={post.body}
+            content={post.body || []}
             serializers={{
               h1: (props: any) => (
                 <h1 className="my-5 text-2xl font-bold" {...props} />
