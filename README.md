@@ -3,7 +3,8 @@
 
 ### Project Preview
 
-![](https://i.ibb.co/0cFqQTQ/localhost-3000-1.jpg)
+![](https://i.ibb.co/1zCQhSN/medium-app-vercel-app.jpg)
+![](https://i.ibb.co/3rYGmgk/medium-app-vercel-app-1.jpg)
 
 ### Info
 
