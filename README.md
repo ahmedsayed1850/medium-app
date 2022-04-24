@@ -22,7 +22,7 @@ GROQ.
 Fully Responsive and mobile first application using tailwind
 Implement React Advanced concepts and use using next.js for static
 regenerate
-fetching API from sanity prepared I've built
+fetching API from sanity I've built and also
 Creating comment section using react hook form and tailwind CSS re-
 render comment section using GROQ and fetching API from sanity
  __[Medium Blog App](https://medium-app.vercel.app/)
