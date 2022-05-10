@@ -1,4 +1,4 @@
-<h1 align="center">Medium Blog App<a href="https://medium-app.vercel.app/">Live Demo</a></h1>
+<h1 align="center">Medium Blog App <a href="https://medium-app.vercel.app/">Live Demo</a></h1>
 
 
 ### Project Preview
